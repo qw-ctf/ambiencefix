@@ -1,5 +1,7 @@
 # ambiencefix
 
+Creates loops compatible with various Quake engines.
+
 ## Build
 
     > go build
